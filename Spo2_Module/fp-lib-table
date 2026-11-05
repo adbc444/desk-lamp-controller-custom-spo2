@@ -1,0 +1,6 @@
+(fp_lib_table
+	(version 7)
+	(lib (name "spo2_stuffYT") (type "KiCad") (uri "${KIPRJMOD}/spo2_stuffYT.pretty") (options "") (descr ""))
+	(lib (name "spo2_stuffYT") (type "KiCad") (uri "${KIPRJMOD}/spo2_stuffYT.pretty") (options "") (descr ""))
+	(lib (name "spo2_stuffYT") (type "KiCad") (uri "${KIPRJMOD}/spo2_stuffYT.pretty") (options "") (descr ""))
+)
