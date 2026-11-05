@@ -2,7 +2,7 @@
 
 
 
-!\[KiCad](https://img.shields.io/badge/Made%20with-KiCad-blue?style=flat-square\&logo=kicad)
+
 
 
 
